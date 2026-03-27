@@ -12,5 +12,7 @@ public class Proyecto_progra_j {
 
     public static void main(String[] args) {
         System.out.println("Proyecto Final!");
+        
+        System.out.println("Una nueva linea en el main");
     }
 }
